@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on CapitalMu</title>
+    <link>/services/</link>
+    <description>Recent content in Services on CapitalMu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Feb 2019 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Technology Assistance</title>
+      <link>/services/tech-services/</link>
+      <pubDate>Fri, 22 Feb 2019 12:33:46 +1000</pubDate>
+      
+      <guid>/services/tech-services/</guid>
+      <description>We provide a wide range of blockchain related technology services, and we are also willing to received customized services for our clients.
+Delegate Agency We help other delegates maintain their nodes:
+[1] 24&amp;frasl;7 technical support
+[2] Solid techincal team to ensure the operation
+[3] Real-time report including various indicators for Node
+[4] 99.9% server up time with server failover, won&amp;rsquo;t miss any block
+[5] Close collaboration with IoTeX team, kept up to date with latest development and upgrades</description>
+    </item>
+    
+    <item>
+      <title>OTC Trading</title>
+      <link>/services/otc-trading/</link>
+      <pubDate>Fri, 22 Feb 2019 15:15:34 +1000</pubDate>
+      
+      <guid>/services/otc-trading/</guid>
+      <description> We provide Block Trade for IOTX (OTC market)
+ most cost efficient solutions transparent for trading details customized services based on your needs  Feel free to contact us! </description>
+    </item>
+    
+    <item>
+      <title>IoTeX Delegate</title>
+      <link>/services/iotex-delegate/</link>
+      <pubDate>Fri, 22 Feb 2019 15:14:39 +1000</pubDate>
+      
+      <guid>/services/iotex-delegate/</guid>
+      <description>CapitalMu is IoTeX&amp;rsquo;s strategic partner and academic collaborator, our university-based research and devlopment team is committed to contribute to IoTeX community diversity and ecosystem maturity.
+Who are we? We are a research team based in the National University of Singapore, consists of professor, financial industry practitioner, lecturer, researcher, and developers.
+Our main research and development interests are:
+ Quantitative Finance: Market Sentiment Analysis, Machine learning and AI, Algorithmic trading strategies, derivative products, on both traditional financial market and cryptocurrency Blockchain Technology and Its Applications: Token economics, Blockchain applications in financial industry and emerging markets, Blockchain technology for a smart nation, where IoT plays an extremely critical role.</description>
+    </item>
+    
+  </channel>
+</rss>
