@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on CapitalMu</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Home on CapitalMu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Feb 2019 15:37:57 +0700</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 15 Sep 2020 15:37:57 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technology Assistance</title>
       <link>/services/tech-services/</link>
@@ -19,11 +15,7 @@
       <guid>/services/tech-services/</guid>
       <description>We provide a wide range of blockchain related technology services, and we are also willing to received customized services for our clients.
 Delegate Agency We help other delegates maintain their nodes:
-[1] 24&amp;frasl;7 technical support
-[2] Solid techincal team to ensure the operation
-[3] Real-time report including various indicators for Node
-[4] 99.9% server up time with server failover, won&amp;rsquo;t miss any block
-[5] Close collaboration with IoTeX team, kept up to date with latest development and upgrades</description>
+[1] 24/7 technical support[2] Solid techincal team to ensure the operation[3] Real-time report including various indicators for Node[4] 99.9% server up time with server failover, won&amp;rsquo;t miss any block[5] Close collaboration with IoTeX team, kept up to date with latest development and upgrades</description>
     </item>
     
     <item>
@@ -62,8 +54,7 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
       <pubDate>Fri, 22 Feb 2019 15:15:34 +1000</pubDate>
       
       <guid>/services/otc-trading/</guid>
-      <description> We provide Block Trade for IOTX (OTC market)
- most cost efficient solutions transparent for trading details customized services based on your needs  Feel free to contact us! </description>
+      <description>We provide Block Trade for IOTX (OTC market)  most cost efficient solutions transparent for trading details customized services based on your needs  IOTX OTC Trading Guideline &amp;mdash;&amp;mdash; Faster + Easier   Drop an email to admin@capitalmu.com: tell us your BUY/SELL amount and expected price Exchange address via social media: Telegram/Wechat/WhatsApp/etc. Small amount trial transaction Left balance transaction Send confirmation email for this OTC transaction to you  Done!</description>
     </item>
     
     <item>
@@ -93,7 +84,7 @@ Our main research and development interests are:
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>/history/</guid>
-      <description> About Heading </description>
+      <description>About Heading </description>
     </item>
     
   </channel>
